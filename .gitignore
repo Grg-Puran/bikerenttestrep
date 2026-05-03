@@ -1,0 +1,35 @@
+# Maven build output
+target/
+
+# Eclipse project files
+.project
+.classpath
+.settings/
+.factorypath
+
+# Eclipse WTP (Web Tools Platform)
+.wtpmodules
+
+# Maven Eclipse plugin
+.mvn/
+
+# IntelliJ (just in case)
+*.iml
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Compiled Java
+*.class
+
+# WAR/JAR files (Maven builds these)
+*.war
+*.jar
+
+# Tomcat working files
+work/
